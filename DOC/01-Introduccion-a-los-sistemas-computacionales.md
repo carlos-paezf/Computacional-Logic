@@ -26,4 +26,4 @@ Un sistema computacional es un conjunto de componentes interrelacionados que tra
 
 |Anterior||Siguiente|
 | --- | --- | --- |
-|[Introducción a los sistemas computacionales](./01-Introduccion-a-los-sistemas-computacionales.md)|[README](../README.md)||
+|[Introducción a los sistemas computacionales](./01-Introduccion-a-los-sistemas-computacionales.md)|[README](../README.md)|[Sistemas Numéricos](./02-Sistemas-numericos.md)|
