@@ -7,3 +7,4 @@
 - [Presentación Sistemas Computacionales](DOC/00_Sistemas-Computacionales.pdf)
 - [Introducción a los sistemas computacionales](DOC/01-Introduccion-a-los-sistemas-computacionales.md)
 - [Sistemas Numéricos](DOC/02-Sistemas-numericos.md)
+- [Algoritmos, Pseudocódigo y Diagramas de Flujo](DOC/03-Algoritmos_Pseudocodigo_y_Diagramas_de_flujo.md)

@@ -117,4 +117,4 @@ Es común en la programación, especialmente en direcciones de memoria y gráfic
 
 |Anterior||Siguiente|
 | --- | --- | --- |
-|[Presentación Sistemas Computacionales](./00_Sistemas-Computacionales.pdf)|[README](../README.md)|[]()|
+|[Presentación Sistemas Computacionales](./00_Sistemas-Computacionales.pdf)|[README](../README.md)|[Algoritmos, Pseudocódigo y Diagramas de Flujo](./03-Algoritmos_Pseudocodigo_y_Diagramas_de_flujo.md)|
