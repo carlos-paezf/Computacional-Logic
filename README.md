@@ -8,3 +8,4 @@
 - [Introducción a los sistemas computacionales](DOC/01-Introduccion-a-los-sistemas-computacionales.md)
 - [Sistemas Numéricos](DOC/02-Sistemas-numericos.md)
 - [Algoritmos, Pseudocódigo y Diagramas de Flujo](DOC/03-Algoritmos_Pseudocodigo_y_Diagramas_de_flujo.md)
+- [Pruebas de escritorio](DOC/04-Pruebas_de_escritorio.md)
