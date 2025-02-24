@@ -76,7 +76,7 @@ Las pruebas de escritorio son útiles en:
 - *Enseñanza de programación*: Facilitar la comprensión del flujo de ejecución.
 - *Optimización de código*: Identificar ineficiencias en algoritmos.
 
-## Ejemplo práctico:
+## Ejemplo práctico
 
 Antes de ejecutar un algoritmo de ordenamiento, se puede hacer una prueba de escritorio para verificar su comportamiento con diferentes listas de entrada.
 
@@ -89,4 +89,4 @@ Antes de ejecutar un algoritmo de ordenamiento, se puede hacer una prueba de esc
 
 |Anterior||Siguiente|
 | --- | --- | --- |
-|[Algoritmos, Pseudocódigo y Diagramas de Flujo](03-Algoritmos_Pseudocodigo_y_Diagramas_de_flujo.md)|[README](../README.md)|[]()|
+|[Algoritmos, Pseudocódigo y Diagramas de Flujo](03-Algoritmos_Pseudocodigo_y_Diagramas_de_flujo.md)|[README](../README.md)|[Introducción a Python](./05-Introduccion_a_Python.ipynb)|
